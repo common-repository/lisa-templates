@@ -1,0 +1,240 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Lisa Templates\n"
+"POT-Creation-Date: 2017-09-06 11:23-0200\n"
+"PO-Revision-Date: 2017-09-06 11:23-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: lisa-templates.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-lisa-admin.php:87
+msgid "Template Code"
+msgstr ""
+
+#: admin/class-lisa-admin.php:96
+msgid "Conditions"
+msgstr ""
+
+#: admin/class-lisa-admin.php:105
+msgid "Data"
+msgstr ""
+
+#: admin/class-lisa-admin.php:121
+#, php-format
+msgid ""
+"The above code is rendered with Timber. Please read the <a href=\"%1$s\" "
+"target=\"_blank\">Timber documentation</a> for further information."
+msgstr ""
+
+#: admin/class-lisa-admin.php:122
+msgid "Also no &lt;script&gt; tags are allowed."
+msgstr ""
+
+#: admin/class-lisa-admin.php:137
+msgid "Above content"
+msgstr ""
+
+#: admin/class-lisa-admin.php:141
+msgid "Below content"
+msgstr ""
+
+#: admin/class-lisa-admin.php:145
+msgid "Replace content"
+msgstr ""
+
+#: admin/class-lisa-admin.php:157
+msgid "Placement"
+msgstr ""
+
+#: admin/class-lisa-admin.php:167
+msgid "Autoload"
+msgstr ""
+
+#: admin/class-lisa-admin.php:188 includes/helpers.php:11
+msgid "Single"
+msgstr ""
+
+#: admin/class-lisa-admin.php:189 includes/helpers.php:12
+msgid "Query"
+msgstr ""
+
+#: admin/class-lisa-admin.php:215
+msgid "Source"
+msgstr ""
+
+#: admin/class-lisa-admin.php:224
+msgid ""
+"This exposes a <b>post</b> object referencing the current post object in "
+"WordPress."
+msgstr ""
+
+#: admin/class-lisa-admin.php:226
+msgid ""
+"This exposes a <b>posts</b> array in your code referencing the post objects "
+"as a result from the query below."
+msgstr ""
+
+#: admin/class-lisa-admin.php:228
+msgid "Query (in JSON)"
+msgstr ""
+
+#: integrations/class-lisa-shortcake.php:45
+#: integrations/class-lisa-tailor.php:25 public/class-lisa-public.php:139
+#: public/widget.php:23
+msgid "Lisa Template"
+msgstr ""
+
+#: integrations/class-lisa-shortcake.php:53
+#: integrations/class-lisa-tailor.php:28
+#: integrations/class-lisa-template-element.php:15
+#: integrations/class-lisa-template-element.php:44 public/widget.php:141
+msgid "Template"
+msgstr ""
+
+#: integrations/class-lisa-shortcake.php:54
+msgid "Please select your template."
+msgstr ""
+
+#: integrations/class-lisa-tailor.php:26 public/widget.php:26
+msgid "Renders a Lisa Template."
+msgstr ""
+
+#: integrations/class-lisa-template-element.php:36 public/widget.php:132
+msgid "Please select a template"
+msgstr ""
+
+#: lisa-templates.php:32
+msgid ""
+"<strong>Lisa Templates</strong> requires the plugin Timber to be activated; "
+"the plug-in has been <strong>deactivated</strong>."
+msgstr ""
+
+#: public/class-lisa-public.php:113
+msgctxt "Post Type General Name"
+msgid "Lisa Templates"
+msgstr ""
+
+#: public/class-lisa-public.php:114
+msgctxt "Post Type Singular Name"
+msgid "Lisa Template"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: public/class-lisa-public.php:115 public/class-lisa-public.php:116
+msgid "Lisa Templates"
+msgstr ""
+
+#: public/class-lisa-public.php:117
+msgid "Template Archives"
+msgstr ""
+
+#: public/class-lisa-public.php:118
+msgid "Template Attributes"
+msgstr ""
+
+#: public/class-lisa-public.php:119
+msgid "Parent Template:"
+msgstr ""
+
+#: public/class-lisa-public.php:120
+msgid "All Templates"
+msgstr ""
+
+#: public/class-lisa-public.php:121
+msgid "Add New Template"
+msgstr ""
+
+#: public/class-lisa-public.php:122
+msgid "Add New"
+msgstr ""
+
+#: public/class-lisa-public.php:123
+msgid "New Template"
+msgstr ""
+
+#: public/class-lisa-public.php:124
+msgid "Edit Template"
+msgstr ""
+
+#: public/class-lisa-public.php:125
+msgid "Update Template"
+msgstr ""
+
+#: public/class-lisa-public.php:126
+msgid "View Template"
+msgstr ""
+
+#: public/class-lisa-public.php:127
+msgid "View Templates"
+msgstr ""
+
+#: public/class-lisa-public.php:128
+msgid "Search Template"
+msgstr ""
+
+#: public/class-lisa-public.php:129
+msgid "No templates found"
+msgstr ""
+
+#: public/class-lisa-public.php:130
+msgid "No templates found in Trash"
+msgstr ""
+
+#: public/class-lisa-public.php:131
+msgid "Insert into template"
+msgstr ""
+
+#: public/class-lisa-public.php:132
+msgid "Uploaded to this template"
+msgstr ""
+
+#: public/class-lisa-public.php:133
+msgid "Templates list"
+msgstr ""
+
+#: public/class-lisa-public.php:134
+msgid "Templates list navigation"
+msgstr ""
+
+#: public/class-lisa-public.php:135
+msgid "Filter templates list"
+msgstr ""
+
+#: public/class-lisa-public.php:140
+msgid "Lisa Templates for Content."
+msgstr ""
+
+#: public/shortcode.php:26
+msgid "Please select a template to render."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://templates.lisa.gl"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily write templates filled with custom data that can be loaded through a "
+"shortcode."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pierre Minik Lynge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://miniup.gl"
+msgstr ""
